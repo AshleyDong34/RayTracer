@@ -1,0 +1,55 @@
+Raytracer:
+
+Features:
+1. Image write (ppm format)
+	Have implemented - demonstrated working fully
+
+2. Camera implementation, with coordinate transformation
+	Have implemented - demonstrated working fully
+
+3. Intersection tests (sphere, triangles, cylinder)
+	Have implemented - demonstrated working fully
+
+4. Binary image writing (intersection/no intersection)
+	Have implemented - demonstrated working fully
+
+5. Blinn-Phong shading
+	Have implemented - demonstrated working fully
+
+6. Shadows
+	Have implemented - demonstrated working fully
+
+7. Textures (on sphere, triangle, cylinder)
+	Have implemented - demonstrated working fully
+
+8. Tone mapping (linear)
+	Have implemented - demonstrated working fully
+
+9. Reflection
+	Have implemented - demonstrated working fully
+
+10. Refraction
+	Have implemented - does not work most of the time, needs debugging
+
+11. Bounding volume hierarchy as an acceleration structure
+	Have implemented - demonstrated working fully
+
+
+
+Pathtracer:
+
+Features:
+1. Antialiasing via multi-sampling pixels
+	Have implemented - demonstrated working fully
+
+2. Defocus in finite-aperture cameras by sampling the camera’s aperture
+	Have not implemented
+
+3. Render materials with BRDF’s (e.g. microfacet)
+	Have not implemented
+
+4. Soft shadows via sampling area lights
+	Have not implemented
+
+5. Multi-bounce path tracing
+	Have not implemented
