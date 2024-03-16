@@ -1,0 +1,3 @@
+/mnt/c/users/ashle/OneDrive - University of Edinburgh/year_4/computer graphics/cw2/s2015258/code/build/CMakeFiles/MyRayTracerExecutable.dir
+/mnt/c/users/ashle/OneDrive - University of Edinburgh/year_4/computer graphics/cw2/s2015258/code/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/ashle/OneDrive - University of Edinburgh/year_4/computer graphics/cw2/s2015258/code/build/CMakeFiles/rebuild_cache.dir
